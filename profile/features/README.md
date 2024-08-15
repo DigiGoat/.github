@@ -3,9 +3,6 @@
 No more copy/paste. What used to be hours of entering goats one by one, having to look up the same information each time, is now just the click of a button. When editing your goats, there is a convenient `Sync All` button that fetches all your owned goats, their registration info (such as name, id, etc.), and all the necessary goats (termed "related goats") to automatically construct a pedigree.
 
 ![Sync Button](assets/Sync.png)
-## Works offline
-The biggest downfall of web-based website editors, is just that, they require access to the web. Which means that it is impossible to put in some new pictures of your favorite goats taking Grand Champion earlier in the day until you get home, at which point you likely won't have time. However, with DigiGoat you cn enter in all those images (and coming soon, show placings) right away, so all you have to do when you get home is hit `Publish Changes`.
-![Publish Changes Button](assets/Publish.png)
 ## Personalized recommendations
 There are some things that just aren't worth your time, like if you're goats barn names are all the last word in their name. Well, now that info is all suggested so all you have to do is click the input box, and voila! It's all entered.
 ![Nickname Suggestion](assets/Nickname-Suggestion.mov)
@@ -26,6 +23,17 @@ What a search engine would see on normal websites:
 ![What a Search Engine Would See](assets/Search-View.png)
 What a search engine would see on a DigiGoat website:
 ![What a Search Engine Sees on DigiGoat](assets/Optimized-View.png)
+## Analytics Support
+DigiGoat comes with built-in support for Google Analytics and Microsoft Clarity. This means that you can track how many people visit your website and what they do on it.
+Google Analytics:
+![Google Analytics](assets/Google-Analytics.png)
+Microsoft Clarity:
+![Microsoft Clarity](assets/Microsoft-Clarity.png)
+Microsoft Clarity Recording:
+![Microsoft Clarity Recording](assets/Clarity-Recording.png)
+## Works offline
+The biggest downfall of web-based website editors, is just that, they require access to the web. Which means that it is impossible to put in some new pictures of your favorite goats taking Grand Champion earlier in the day until you get home, at which point you likely won't have time. However, with DigiGoat you cn enter in all those images (and coming soon, show placings) right away, so all you have to do when you get home is hit `Publish Changes`.
+![Publish Changes Button](assets/Publish.png)
 ## Internet Efficient
 Unlike most website editors that require a constant, high speed connection, DigiGoat only uses internet as needed. Such as syncing with ADGA or when you wish to publish changes.
 ## Open source
@@ -44,8 +52,6 @@ Using the DigiGoat Client App, your website is automatically updated to include 
 DigiGoat has a consistent layout. This means that every page on the website looks the same, which makes it easier to navigate.
 ## A Page For Each Goat
 DigiGoat has a page for each goat. This means that you can learn more about each goat and see pictures of them.
-## Analytics Support
-DigiGoat comes with built-in support for Google Analytics and Microsoft Clarity. This means that you can track how many people visit your website and what they do on it.
 ## SPA
 DigiGoat is a Single Page Application (SPA). This means that the website is faster and more responsive than traditional websites. On traditional websites, every time you click on a link, the entire page has to reload. With DigiGoat, once the website is loaded, it never has to load again.
 ## Optimized Image Loading
