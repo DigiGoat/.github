@@ -26,7 +26,7 @@
 | [Youth Discount](./features/README.md#youth-discount) | :white_check_mark: | :x: | :x: |
 | :x: = Not Supported | :white_check_mark: = Supported | :moneybag: = Premium Feature | :computer: = Partial Support (Requires Setup) |
 
-For a live preview of the DigiGoat website, visit [lilpilchuckcreek.org](https://lilpilchuckcreek.org/)
+For a live demo of the DigiGoat website, visit [lilpilchuckcreek.org](https://lilpilchuckcreek.org/)
 
 ## Upcoming Features:
   - [ ] Unpublished changes will be color-coded
