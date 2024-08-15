@@ -1,4 +1,16 @@
 
+# DigiGoat Client App
+## Key Features:
+- [Works with ADGA](https://github.com/DigiGoat/client-app#works-with-adga)
+- [Internet efficient](https://github.com/DigiGoat/client-app#internet-efficient)
+- [Works offline](https://github.com/DigiGoat/client-app#works-offline)
+- [Personalized recommendations](https://github.com/DigiGoat/client-app#personalized-recommendations)
+- [Open source](https://github.com/DigiGoat/client-app#open-source)
+- [Community driven](https://github.com/DigiGoat/client-app#community-driven)
+- [Personalized support](https://github.com/DigiGoat/client-app#personalized-support)
+- [View live preview](https://github.com/DigiGoat/client-app#view-live-preview) (Coming Soon!)
+- [Live preview works offline](https://github.com/DigiGoat/client-app#live-preview-works-offline) (Coming Soon!)
+
 ## Upcoming Features:
 - [ ] Unpublished changes will be color-coded
 - This makes it even easier to see what you'll be changing
