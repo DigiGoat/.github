@@ -27,67 +27,67 @@
 | :x: = Not Supported | :white_check_mark: = Supported | :moneybag: = Premium Feature | :computer: = Partial Support (Requires Setup) |
 
 ## Upcoming Features:
-- [ ] Unpublished changes will be color-coded
-- This makes it even easier to see what you'll be changing
-- [ ] GFM Markdown support
-- This will allow you to have links, headers, etc. on your homepage and for your goats descriptions
-- [ ] Custom pages
-- Ex. `about-us`, `contact-us`, etc.
-- [ ] Add progeny
-- Have an automated progeny for each of your goats
-- [ ] Quick color selector
-- Quickly set the colors for your website
-- [ ] Goat image cropping
-- The ability to crop your goat's images right in the app
-- [ ] References
-- Goats not under your account (ex. deceased does, a friends buck you use frequently, etc.)
-- [ ] Last updated indicator in footer
-- A quick way to see when your website was last updated
-- [ ] Kidding schedule
-- A schedule for your future kiddings (with a built-in gestation calculator)
-- [ ] For sale
-- A tab for any goats you have for sale (registered or pet)
-- [ ] History tab
-- A spot to view the history of all your site changes
-- [ ] Live preview
-- Preview your changes before you publish
-- [ ] Show history
-- A record of all of your goats placings at shows
-- [ ] Awards
-- A place for milk awards
-- [ ] LA history
-- A place for all of your goat's LA scores
-- [ ] Milk test history
-- A place to track your goat's milking performance
-- [ ] Blog
-- A tab to show off what's been happening on your farm!
+  - [ ] Unpublished changes will be color-coded
+    - This makes it even easier to see what you'll be changing
+  - [ ] GFM Markdown support
+    - This will allow you to have links, headers, etc. on your homepage and for your goats descriptions
+  - [ ] Custom pages
+    - Ex. `about-us`, `contact-us`, etc.
+  - [ ] Add progeny
+    - Have an automated progeny for each of your goats
+  - [ ] Quick color selector
+    - Quickly set the colors for your website
+  - [ ] Goat image cropping
+    - The ability to crop your goat's images right in the app
+  - [ ] References
+    - Goats not under your account (ex. deceased does, a friends buck you use frequently, etc.)
+  - [ ] Last updated indicator in footer
+    - A quick way to see when your website was last updated
+  - [ ] Kidding schedule
+    - A schedule for your future kiddings (with a built-in gestation calculator)
+  - [ ] For sale
+    - A tab for any goats you have for sale (registered or pet)
+  - [ ] History tab
+    - A spot to view the history of all your site changes
+  - [ ] Live preview
+    - Preview your changes before you publish
+  - [ ] Show history
+    - A record of all of your goats placings at shows
+  - [ ] Awards
+    - A place for milk awards
+  - [ ] LA history
+    - A place for all of your goat's LA scores
+  - [ ] Milk test history
+    - A place to track your goat's milking performance
+  - [ ] Blog
+    - A tab to show off what's been happening on your farm!
 
 ## Ideas:
-- [ ] Sync with [ADGA Genetics](https://genetics.adga.org/)
-- Currently, ADGA Genetics is more up-to-date than ADGA's main system.
-- [ ] Infer freshenings
-- This would use the progeny of a goat to infer how many times they have freshened
-- [ ] Editable footer
-- This would allow you to put whatever you want in the footer (which is the same on every page)
-- [ ] View changelog for incoming updates
-- This would allow you to see what's coming in the next update
-- [ ] Stall card maker
-- This would allow you to make stall cards for your goats with just a few clicks of a button
-- [ ] IndexNow support
-- This would allow your website to be indexed by search engines faster
-- [ ] Reorderable images
-- This would allow you to reorder the images on your goat's page
-- [ ] Integrated Favicon
-- This would allow you to setup a custom favicon for your website within the app
-- [ ] Facebook integration
-- This would allow for your farm blog to be automatically posted to Facebook
-- [ ] Instagram integration
-- This would allow for your farm blog to be automatically posted to Instagram
-- [ ] Tensor flow LA predictions
-- This would allow you to use AI predict your goat's Linear Appraisal scores
-- [ ] Tensor flow milk test predictions
-- This would allow you to use AI predict your goat's milk test results
-- [ ] [Showman](https://www.showman.app/) integration
-- Easily sign up for shows by having all of your goat's information already filled out
-- [ ] [Evergreen](https://egreen.fairwire.com/) sign-up integration
-- Easily sign up for shows by having all of your goat's information already filled out
+  - [ ] Sync with [ADGA Genetics](https://genetics.adga.org/)
+    - Currently, ADGA Genetics is more up-to-date than ADGA's main system.
+  - [ ] Infer freshenings
+    - This would use the progeny of a goat to infer how many times they have freshened
+  - [ ] Editable footer
+    - This would allow you to put whatever you want in the footer (which is the same on every page)
+  - [ ] View changelog for incoming updates
+    - This would allow you to see what's coming in the next update
+  - [ ] Stall card maker
+    - This would allow you to make stall cards for your goats with just a few clicks of a button
+  - [ ] IndexNow support
+    - This would allow your website to be indexed by search engines faster
+  - [ ] Reorderable images
+    - This would allow you to reorder the images on your goat's page
+  - [ ] Integrated Favicon
+    - This would allow you to setup a custom favicon for your website within the app
+  - [ ] Facebook integration
+    - This would allow for your farm blog to be automatically posted to Facebook
+  - [ ] Instagram integration
+    - This would allow for your farm blog to be automatically posted to Instagram
+  - [ ] Tensor flow LA predictions
+    - This would allow you to use AI predict your goat's Linear Appraisal scores
+  - [ ] Tensor flow milk test predictions
+    - This would allow you to use AI predict your goat's milk test results
+  - [ ] [Showman](https://www.showman.app/) integration
+    - Easily sign up for shows by having all of your goat's information already filled out
+  - [ ] [Evergreen](https://egreen.fairwire.com/) sign-up integration
+    - Easily sign up for shows by having all of your goat's information already filled out
