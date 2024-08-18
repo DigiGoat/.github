@@ -67,6 +67,8 @@ For a live demo of the DigiGoat website, visit [lilpilchuckcreek.org](https://li
 ## Ideas:
   - [ ] Sync with [ADGA Genetics](https://genetics.adga.org/)
     - Currently, ADGA Genetics is more up-to-date than ADGA's main system.
+  - [ ] Sync with the [CDCB](https://webconnect.uscdcb.com/#/queries)
+    - This would allow for your site to show real-time milk test data and production projections
   - [ ] Infer freshenings
     - This would use the progeny of a goat to infer how many times they have freshened
   - [ ] Editable footer
