@@ -26,7 +26,7 @@
 | [Custom Domain](./features/README.md#custom-domain) | :white_check_mark: | 1-year | 1-year |
 | [Price](./features/README.md#price) | $100/year | $48-$300/year | $204-$432/year |
 | [Youth Discount](./features/README.md#youth-discount) | :white_check_mark: | :x: | :x: |
-| :x: = Not Supported | :white_check_mark: = Supported | :moneybag: = Premium Feature | :computer: = Partial Support (Requires Setup) |
+| :computer: = Partial Support (Requires Setup) | :white_check_mark: = Supported | :x: = Not Supported | :moneybag: = Premium Feature |
 
 For a live demo of the DigiGoat website, visit [lilpilchuckcreek.org](https://lilpilchuckcreek.org/)
 
