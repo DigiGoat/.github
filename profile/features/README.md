@@ -52,6 +52,11 @@ Using the DigiGoat Client App, your website is automatically updated to include 
 DigiGoat has a consistent layout. This means that every page on the website looks the same, which makes it easier to navigate.
 ## A Page For Each Goat
 DigiGoat has a page for each goat. This means that you can learn more about each goat and see pictures of them.
+## Markdown Support
+DigiGoat supports Markdown. This means that you can use Markdown to easily format text on your website. 
+* To learn the syntax, [click here](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) OR (new!) create a Google Doc, write & style some stuff, then right-click and select `Copy As Markdown`
+## Built-In Gestation Calculator
+DigiGoat has a built-in gestation calculator. This means that you can easily calculate the due date (or bred date!) of your goats.
 ## SPA
 DigiGoat is a Single Page Application (SPA). This means that the website is faster and more responsive than traditional websites. On traditional websites, every time you click on a link, the entire page has to reload. With DigiGoat, once the website is loaded, it never has to load again.
 ## Optimized Image Loading

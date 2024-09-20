@@ -11,6 +11,8 @@
 | [Consistent Layout](./features/README.md#consistent-layout) | :white_check_mark: | :computer: | :computer: |
 | [A Page For Each Goat](./features/README.md#a-page-for-each-goat) | :white_check_mark: | :computer: | :computer: |
 | [Analytics Support](./features/README.md#analytics-support) | :white_check_mark: | :moneybag: | :moneybag: |
+| [Markdown Support](./features/README.md#markdown-support) | :white_check_mark: | :white_check_mark: | :x: |
+| [Built-In Gestation Calculator](./features/README.md#built-in-gestation-calculator) | :white_check_mark: | :x: | :x: |
 | [SPA](./features/README.md#spa) | :white_check_mark: | :x: | :x: |
 | [Optimized Image Loading](./features/README.md#optimized-image-loading) | :white_check_mark: | :x: | :x: |
 | [Optimized For Search Engines](./features/README.md#optimized-for-search-engines) | :white_check_mark: | :x: | :x: |
@@ -31,7 +33,7 @@ For a live demo of the DigiGoat website, visit [lilpilchuckcreek.org](https://li
 ## Upcoming Features:
   - [ ] Unpublished changes will be color-coded
     - This makes it even easier to see what you'll be changing
-  - [ ] GFM Markdown support
+  - [x] GFM Markdown support
     - This will allow you to have links, headers, etc. on your homepage and for your goats descriptions
   - [ ] Custom pages
     - Ex. `about-us`, `contact-us`, etc.
@@ -45,7 +47,7 @@ For a live demo of the DigiGoat website, visit [lilpilchuckcreek.org](https://li
     - Goats not under your account (ex. deceased does, a friends buck you use frequently, etc.)
   - [ ] Last updated indicator in footer
     - A quick way to see when your website was last updated
-  - [ ] Kidding schedule
+  - [x] Kidding schedule
     - A schedule for your future kiddings (with a built-in gestation calculator)
   - [ ] For sale
     - A tab for any goats you have for sale (registered or pet)
