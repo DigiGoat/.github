@@ -10,8 +10,8 @@
 | [Open Graph Protocol](./features/README.md#open-graph-protocol) | :white_check_mark: | :white_check_mark: | :computer: |
 | [Consistent Layout](./features/README.md#consistent-layout) | :white_check_mark: | :computer: | :computer: |
 | [A Page For Each Goat](./features/README.md#a-page-for-each-goat) | :white_check_mark: | :computer: | :computer: |
-| [Analytics Support](./features/README.md#analytics-support) | :white_check_mark: | :moneybag: | :moneybag: |
 | [Markdown Support](./features/README.md#markdown-support) | :white_check_mark: | :white_check_mark: | :x: |
+| [Analytics Support](./features/README.md#analytics-support) | :white_check_mark: | :moneybag: | :moneybag: |
 | [Built-In Gestation Calculator](./features/README.md#built-in-gestation-calculator) | :white_check_mark: | :x: | :x: |
 | [SPA](./features/README.md#spa) | :white_check_mark: | :x: | :x: |
 | [Optimized Image Loading](./features/README.md#optimized-image-loading) | :white_check_mark: | :x: | :x: |
