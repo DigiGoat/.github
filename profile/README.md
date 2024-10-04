@@ -12,6 +12,7 @@
 | [A Page For Each Goat](./features/README.md#a-page-for-each-goat) | :white_check_mark: | :computer: | :computer: |
 | [Markdown Support](./features/README.md#markdown-support) | :white_check_mark: | :white_check_mark: | :x: |
 | [Analytics Support](./features/README.md#analytics-support) | :white_check_mark: | :moneybag: | :moneybag: |
+| [IndexNow Support](./features/README.md#indexnow-support) | :white_check_mark: | :computer: | :moneybag: |
 | [Built-In Gestation Calculator](./features/README.md#built-in-gestation-calculator) | :white_check_mark: | :x: | :x: |
 | [SPA](./features/README.md#spa) | :white_check_mark: | :x: | :x: |
 | [Optimized Image Loading](./features/README.md#optimized-image-loading) | :white_check_mark: | :x: | :x: |
@@ -79,8 +80,6 @@ For a live demo of the DigiGoat website, visit [lilpilchuckcreek.org](https://li
     - This would allow you to see what's coming in the next update
   - [ ] Stall card maker
     - This would allow you to make stall cards for your goats with just a few clicks of a button
-  - [ ] IndexNow support
-    - This would allow your website to be indexed by search engines faster
   - [ ] Reorderable images
     - This would allow you to reorder the images on your goat's page
   - [ ] Integrated Favicon
@@ -97,3 +96,5 @@ For a live demo of the DigiGoat website, visit [lilpilchuckcreek.org](https://li
     - Easily sign up for shows by having all of your goat's information already filled out
   - [ ] [Evergreen](https://egreen.fairwire.com/) sign-up integration
     - Easily sign up for shows by having all of your goat's information already filled out
+  - [x] IndexNow support
+    - This would allow your website to be indexed by search engines faster

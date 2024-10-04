@@ -31,6 +31,8 @@ Microsoft Clarity:
 ![Microsoft Clarity](assets/Microsoft-Clarity.png)
 Microsoft Clarity Recording:
 ![Microsoft Clarity Recording](assets/Clarity-Recording.mov)
+## IndexNow Support
+DigiGoat supports IndexNow. This means that when you publish changes to your website, DigiGoat will automatically detect which pages are being modified and notify search engines so that they can update their search results.
 ## Works offline
 The biggest downfall of web-based website editors, is just that, they require access to the web. Which means that it is impossible to put in some new pictures of your favorite goats taking Grand Champion earlier in the day until you get home, at which point you likely won't have time. However, with DigiGoat you cn enter in all those images (and coming soon, show placings) right away, so all you have to do when you get home is hit `Publish Changes`.
 ![Publish Changes Button](assets/Publish.png)
