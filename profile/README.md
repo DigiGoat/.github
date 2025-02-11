@@ -42,30 +42,31 @@ For a live demo of the DigiGoat website, visit [lilpilchuckcreek.org](https://li
     - Quickly set the colors for your website
   - [ ] Goat image cropping
     - The ability to crop your goat's images right in the app
-  - [ ] References
-    - Goats not under your account (ex. deceased does, a friends buck you use frequently, etc.)
   - [ ] Last updated indicator in footer
     - A quick way to see when your website was last updated
-  - [ ] For sale
-    - A tab for any goats you have for sale (registered or pet)
-  - [ ] History tab
-    - A spot to view the history of all your site changes
   - [ ] Live preview
     - Preview your changes before you publish
   - [ ] Show history
     - A record of all of your goats placings at shows
-  - [ ] Awards
-    - A place for milk awards
-  - [ ] LA history
-    - A place for all of your goat's LA scores
   - [ ] Milk test history
     - A place to track your goat's milking performance
   - [ ] Blog
     - A tab to show off what's been happening on your farm!
   - [x] GFM Markdown support
     - This will allow you to have links, headers, etc. on your homepage and for your goats descriptions
+  - [x] History tab
+    - A spot to view the history of all your site changes
   - [x] Kidding schedule
     - A schedule for your future kiddings (with a built-in gestation calculator)
+  - [x] References
+    - Goats not under your account (ex. deceased does, a friends buck you use frequently, etc.)
+  - [x] For sale
+    - A tab for any goats you have for sale (registered or pet)
+  - [x] Awards
+    - A place for milk awards
+  - [x] LA history
+    - A place for all of your goat's LA scores
+
 
 ## Ideas:
   - [ ] Sync with [ADGA Genetics](https://genetics.adga.org/)
