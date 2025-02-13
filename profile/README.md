@@ -25,15 +25,14 @@
 | [Community driven](./features/README.md#community-driven) | :white_check_mark: | :x: | :x: |
 | [Personalized support](./features/README.md#personalized-support) | :white_check_mark: | :x: | :x: |
 | [Custom Domain](./features/README.md#custom-domain) | :white_check_mark: | 1-year | 1-year |
+| [Custom Emails](./features/README.md#custom-emails) | :white_check_mark: | :moneybag: | :moneybag: |
 | [Price](./features/README.md#price) | $100/year | $48-$300/year | $204-$432/year |
 | [Youth Discount](./features/README.md#youth-discount) | :white_check_mark: | :x: | :x: |
 | :computer: = Partial Support (Requires Setup) | :white_check_mark: = Supported | :x: = Not Supported | :moneybag: = Premium Feature |
 
-For a live demo of the DigiGoat website, visit [lilpilchuckcreek.org](https://lilpilchuckcreek.org/)
+For a live demo of a DigiGoat website, visit [lilpilchuckcreek.org](https://lilpilchuckcreek.org/)
 
 ## Upcoming Features:
-  - [ ] Unpublished changes will be color-coded
-    - This makes it even easier to see what you'll be changing
   - [ ] Custom pages
     - Ex. `about-us`, `contact-us`, etc.
   - [ ] Add progeny
@@ -85,6 +84,8 @@ For a live demo of the DigiGoat website, visit [lilpilchuckcreek.org](https://li
     - This would allow you to reorder the images on your goat's page
   - [ ] Integrated Favicon
     - This would allow you to setup a custom favicon for your website within the app
+  - [ ] Unpublished changes will be color-coded
+    - This makes it even easier to see what you'll be changing
   - [ ] Facebook integration
     - This would allow for your farm blog to be automatically posted to Facebook
   - [ ] Instagram integration
