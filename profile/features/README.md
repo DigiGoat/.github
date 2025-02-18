@@ -69,6 +69,8 @@ DigiGoat has automated SEO. This means that the website is optimized for search 
 DigiGoat is ad-free. This means that there are no ads on the website, so you can focus on the content.
 ## Custom Domain
 DigiGoat includes a custom domain. This means that you can have your own domain name, like www.yourwebsite.com.
+## Custom Emails
+DigiGoat includes custom emails. This means that you can have email addresses like info@yourwebsite.com or support@yourwebsite.com.
 ## Price
 DigiGoat is competitively priced at $100/year. This is more than the cheapest plan on WordPress, but has many more features to offer. Additionally, most website builders charge extra for a custom domain.
 ## Youth Discount
