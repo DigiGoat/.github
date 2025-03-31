@@ -33,6 +33,8 @@
 For a live demo of a DigiGoat website, visit [lilpilchuckcreek.org](https://lilpilchuckcreek.org/)
 
 ## Upcoming Features:
+  - [ ] GFM Markdown support in Live Preview
+    - This will allow you to have links, headers, etc. on your homepage and for your goats descriptions in the live preview
   - [ ] Custom pages
     - Ex. `about-us`, `contact-us`, etc.
   - [ ] Add progeny
