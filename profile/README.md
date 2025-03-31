@@ -3,8 +3,8 @@
 | Features: | [DigiGoat](https://github.com/DigiGoat) | [WordPress](https://wordpress.com/pricing/) | [Wix](https://www.wix.com/plans) |
 | --- | --- | --- | --- |
 | [Works with ADGA](./features/README.md#works-with-adga) | :white_check_mark: | :x: | :x: |
-| [View live preview](./features/README.md#view-live-preview) | Coming Soon! | :white_check_mark: | :white_check_mark: |
-| [Live preview works offline](./features/README.md#live-preview-works-offline) | Coming Soon! | :x: | :x: |
+| [View live preview](./features/README.md#view-live-preview) | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| [Live preview works offline](./features/README.md#live-preview-works-offline) | :white_check_mark: | :x: | :x: |
 | [Automatic Updates](./features/README.md#automatic-updates) | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | [Ad-Free](./features/README.md#ad-free) | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | [Open Graph Protocol](./features/README.md#open-graph-protocol) | :white_check_mark: | :white_check_mark: | :computer: |
@@ -43,8 +43,6 @@ For a live demo of a DigiGoat website, visit [lilpilchuckcreek.org](https://lilp
     - The ability to crop your goat's images right in the app
   - [ ] Last updated indicator in footer
     - A quick way to see when your website was last updated
-  - [ ] Live preview
-    - Preview your changes before you publish
   - [ ] Show history
     - A record of all of your goats placings at shows
   - [ ] Milk test history
@@ -65,6 +63,9 @@ For a live demo of a DigiGoat website, visit [lilpilchuckcreek.org](https://lilp
     - A place for milk awards
   - [x] LA history
     - A place for all of your goat's LA scores
+  - [x] Live preview
+    - Preview your changes before you publish
+
 
 
 ## Ideas:
