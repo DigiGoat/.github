@@ -8,7 +8,7 @@ There are some things that just aren't worth your time, like if you're goats bar
 ![Nickname Suggestion](assets/Nickname-Suggestion.mov)
 The same goes for when you are setting up your website for the first time. Why try to figure out what to put in all the boxes when it can just tell you?
 ![Suggestions Example](assets/Suggestions.png)
-Whe you see the italicized text, just click!
+When you see the italicized text, just click!
 ## Open Graph Protocol
 DigiGoat's goat pages support the Open Graph Protocol. This means that when you share a goat's page on social media, it will look good and include the right information. This will include things like your goat's name, description, and pictures
 Here's an example of what it would look like when sharing a goat's page on iMessage:
@@ -45,9 +45,11 @@ All features will be based off of public request. Have a feature in mind that yo
 ## Personalized support
 I'm not some faceless corporation or robot answering machine, I'm a real person who can remember your farm and website setup. No more having to play 20 questions every time you need help with something
 ## View live preview
-One important update for the future will be the ability to preview your site just as it would be seen from the public, without having to publish it first.
+You can view a live preview of your website as you edit it. This means that you can see what your website will look like before you publish it. This is especially useful for making sure that everything looks good and works correctly.
+## Live preview with GFM Markdown support
+You can now see GFM Markdown in the live preview. This means that you can use Markdown to format text on your website, and see what it will look like in real time. This is especially useful for making sure that everything looks good and works correctly. (It even has an offline compiler that looks almost the same as the online one!)
 ## Live preview works offline
-Once implemented, the live preview will always be available, without having to have any internet connection!
+The live preview works offline. This means that you can see what your website will look like even when you don't have an internet connection. This is especially useful for making sure that everything looks good and works correctly.
 ## Automatic Updates
 Using the DigiGoat Client App, your website is automatically updated to include all the latest bug fixes and updates.
 ## Consistent Layout

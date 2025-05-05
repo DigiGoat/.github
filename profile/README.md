@@ -33,8 +33,8 @@
 For a live demo of a DigiGoat website, visit [lilpilchuckcreek.org](https://lilpilchuckcreek.org/)
 
 ## Upcoming Features:
-  - [ ] GFM Markdown support in Live Preview
-    - This will allow you to have links, headers, etc. on your homepage and for your goats descriptions in the live preview
+  - [ ] [Firebase](https://firebase.google.com/) Hosting
+    - This may offer a slight increase in performance and opens up the possibility of using Firebase's other features (online payements, etc.)
   - [ ] Custom pages
     - Ex. `about-us`, `contact-us`, etc.
   - [ ] Add progeny
@@ -43,8 +43,6 @@ For a live demo of a DigiGoat website, visit [lilpilchuckcreek.org](https://lilp
     - Quickly set the colors for your website
   - [ ] Goat image cropping
     - The ability to crop your goat's images right in the app
-  - [ ] Last updated indicator in footer
-    - A quick way to see when your website was last updated
   - [ ] Show history
     - A record of all of your goats placings at shows
   - [ ] Milk test history
@@ -67,10 +65,14 @@ For a live demo of a DigiGoat website, visit [lilpilchuckcreek.org](https://lilp
     - A place for all of your goat's LA scores
   - [x] Live preview
     - Preview your changes before you publish
+  - [x] GFM Markdown support in Live Preview
+    - This will allow you to have links, headers, etc. on your homepage and for your goats descriptions in the live preview
 
 
 
 ## Ideas:
+  - [ ] Last updated indicator in footer
+    - A quick way to see when your website was last updated
   - [ ] Sync with [ADGA Genetics](https://genetics.adga.org/)
     - Currently, ADGA Genetics is more up-to-date than ADGA's main system.
   - [ ] Sync with the [CDCB](https://webconnect.uscdcb.com/#/queries)
